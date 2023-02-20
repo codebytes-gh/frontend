@@ -1,8 +1,11 @@
 {
   
   "name": "hostinger-react",
-  "version": "16.15.1",
+  "version": "1.0.0",
   "description": "Freelance Developer Website",
+  "engines": {
+    "node": "18.x"
+  },
   "homepage": "http://jessicapyle-portfolio.online",
   "scripts": {
     "start": "webpack serve --open --hot",
